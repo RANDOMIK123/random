@@ -1,3 +1,6 @@
 for i in range(10):
-       print("Hello")
-
+       print("hello")
+for i in range(10):
+       print ("cat")
+for i in range(10):
+       print("dog")
